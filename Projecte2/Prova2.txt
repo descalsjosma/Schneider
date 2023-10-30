@@ -1,4 +1,3 @@
 HOLA MUNDO. DEMO CONTROL DE VERSIONS AMB GIT -- Versió 1.0
-Modificacions per a fer una subversió nova. -- Versió 1.1
-Una altra més Provant...., -- Versió 1.2
+
 
